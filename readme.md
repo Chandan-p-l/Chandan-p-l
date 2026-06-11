@@ -309,9 +309,9 @@ JavaScript • LocalStorage • Responsive Design
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/chandan-pal-49b664205/)
 
-[![Website](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge\&logo=googlechrome)](https://canezz.com)
+[![Website](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge\&logo=googlechrome)](https://chandanpal.netlify.app/)
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:chandanpal2301@gmail.com)
 
