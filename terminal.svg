@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="290" viewBox="0 0 820 290">
+  <defs>
+    <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2563EB"/><stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="hl" x1="0" x2="1">
+      <stop offset="0" stop-color="#60A5FA"/><stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <clipPath id="c1"><rect x="30" y="62" height="26" width="0"><animate attributeName="width" from="0" to="760" begin="0.4s" dur="0.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="30" y="92" height="26" width="0"><animate attributeName="width" from="0" to="760" begin="1.2s" dur="1.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="30" y="132" height="26" width="0"><animate attributeName="width" from="0" to="760" begin="2.9s" dur="0.7s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="30" y="162" height="26" width="0"><animate attributeName="width" from="0" to="760" begin="3.8s" dur="1.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="30" y="202" height="26" width="0"><animate attributeName="width" from="0" to="760" begin="5.5s" dur="0.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c6"><rect x="30" y="232" height="26" width="0"><animate attributeName="width" from="0" to="760" begin="6.3s" dur="1.3s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <style>
+    text{font-family:'JetBrains Mono','Fira Code',Consolas,Menlo,monospace;font-size:15px}
+    .p{fill:#7C3AED;font-weight:700}.c{fill:#E5E7EB}.o{fill:#94A3B8}.k{fill:url(#hl);font-weight:700}
+    .glow{animation:g 4s ease-in-out infinite}
+    @keyframes g{0%,100%{stroke-opacity:.55}50%{stroke-opacity:1}}
+  </style>
+  <rect x="1.5" y="1.5" width="817" height="287" rx="14" fill="#0D1117" stroke="url(#bd)" stroke-width="2" class="glow"/>
+  <rect x="1.5" y="1.5" width="817" height="36" rx="14" fill="#161B22"/>
+  <rect x="1.5" y="24" width="817" height="14" fill="#161B22"/>
+  <circle cx="24" cy="20" r="6" fill="#FF5F57"/><circle cx="44" cy="20" r="6" fill="#FEBC2E"/><circle cx="64" cy="20" r="6" fill="#28C840"/>
+  <text x="410" y="25" text-anchor="middle" class="o" style="font-size:13px">chandan@wythher: ~</text>
+
+  <g clip-path="url(#c1)"><text x="30" y="80"><tspan class="p">❯ </tspan><tspan class="c">whoami</tspan></text></g>
+  <g clip-path="url(#c2)"><text x="30" y="110"><tspan class="k">Chandan Pal</tspan><tspan class="o"> — CTO @ WythHer · Co-founder @ VagMed India</tspan></text></g>
+  <g clip-path="url(#c3)"><text x="30" y="150"><tspan class="p">❯ </tspan><tspan class="c">cat focus.txt</tspan></text></g>
+  <g clip-path="url(#c4)"><text x="30" y="180" class="o">FemTech products · full-stack platforms · automation systems</text></g>
+  <g clip-path="url(#c5)"><text x="30" y="220"><tspan class="p">❯ </tspan><tspan class="c">ls ./stack</tspan></text></g>
+  <g clip-path="url(#c6)"><text x="30" y="250" class="o">next.js · react · node · three.js · spring · mysql · sheets-api</text></g>
+
+  <rect x="30" y="263" width="9" height="17" fill="#60A5FA" opacity="0">
+    <set attributeName="opacity" to="1" begin="7.7s"/>
+    <animate attributeName="fill-opacity" values="1;1;0;0" dur="1s" begin="7.7s" repeatCount="indefinite"/>
+  </rect>
+</svg>
