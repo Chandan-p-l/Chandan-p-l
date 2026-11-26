@@ -2,13 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:3B82F6,100:8B5CF6&text=Chandan%20Pal&fontSize=66&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Systems%20%C2%B7%20Full-Stack%20Architect%20%C2%B7%20Product%20Engineer&descSize=18&descAlignY=64&stroke=8B5CF6&strokeWidth=1"/>
 
-<a href="https://chandanpal.netlify.app/">
+<a href="https://portfolio-chandan10.vercel.app/">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=900&color=60A5FA&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=Building+high-performance+systems+from+0+%E2%86%92+1;Rust+%C2%B7+TypeScript+%C2%B7+Docker+%C2%B7+Electron;Designing+robust+cloud+infra+%26+devops+pipelines;Shipping+engineered+products+that+scale" alt="Typing SVG"/>
 </a>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/chandan-pal-49b664205/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://chandanpal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://portfolio-chandan10.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:chandanpal2301@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Chandan-p-l"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
