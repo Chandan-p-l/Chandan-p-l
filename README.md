@@ -1,44 +1,54 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0F172A,50:2563EB,100:7C3AED&text=Chandan%20Pal&fontSize=66&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=CTO%20%40%20WythHer%20%C2%B7%20Co-founder%20%40%20VagMed%20India&descSize=18&descAlignY=64&stroke=7C3AED&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:3B82F6,100:8B5CF6&text=Chandan%20Pal&fontSize=66&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Systems%20%C2%B7%20Full-Stack%20Architect%20%C2%B7%20Product%20Engineer&descSize=18&descAlignY=64&stroke=8B5CF6&strokeWidth=1"/>
 
 <a href="https://chandanpal.netlify.app/">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=60A5FA&center=true&vCenter=true&multiline=false&repeat=true&width=640&lines=Building+FemTech+from+0+%E2%86%92+1;Full-stack+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+Three.js;Automation-first+product+engineering;Shipping+products+that+matter" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=900&color=60A5FA&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=Building+high-performance+systems+from+0+%E2%86%92+1;Rust+%C2%B7+TypeScript+%C2%B7+Docker+%C2%B7+Electron;Designing+robust+cloud+infra+%26+devops+pipelines;Shipping+engineered+products+that+scale" alt="Typing SVG"/>
 </a>
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/chandan-pal-49b664205/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://chandanpal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://chandanpal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:chandanpal2301@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wythher.com"><img src="https://img.shields.io/badge/WythHer-7C3AED?style=for-the-badge&logo=shopify&logoColor=white"/></a>
+<a href="https://github.com/Chandan-p-l"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Chandan-p-l&style=flat-square&color=7C3AED&label=profile+views"/>
+<img src="https://komarev.com/ghpvc/?username=Chandan-p-l&style=flat-square&color=8B5CF6&label=profile+views"/>
 
 <br><br>
 
-<img src="./assets/terminal.svg" width="100%" alt="whoami terminal"/>
+<img src="./terminal.svg" width="100%" alt="whoami terminal"/>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
+### 🚀 Core Engineering & Architecture
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🚺 WythHer
-**CTO & Founding Member**
-
-Own the tech end-to-end — product architecture, the web platform, growth & data systems, and the automation that runs operations.
+#### ⚡ Systems & Languages
+- Compilers & language design (**Rust**)
+- Low-latency system engineering
+- Memory-safe core architectures
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🩺 VagMed India
-**Co-founder**
+#### 🌐 Full-Stack & Desktop
+- Scalable microservices & REST APIs
+- Cross-platform desktop apps (**Electron**)
+- Modern UI/UX with **TypeScript & React**
 
-Technical planning, platform architecture and brand technology for a DPIIT-recognised femtech company.
+</td>
+<td width="33%" valign="top">
+
+#### 🛠️ Cloud & DevOps
+- Container orchestration with **Docker**
+- Automated CI/CD pipelines & reverse proxies (**Caddy**)
+- Linux system internals & server administration
 
 </td>
 </tr>
@@ -46,50 +56,55 @@ Technical planning, platform architecture and brand technology for a DPIIT-recog
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-<h3 align="center">⚡ Stack</h3>
+<h3 align="center">🛠️ Tech Stack & Toolbelt</h3>
 
 <p align="center">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,threejs,tailwind,nodejs,spring,php,mysql,git,github,vercel,netlify,vscode&perline=8&theme=dark"/></a>
+  <b>Languages & Runtimes:</b><br>
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,python,bash,nodejs&theme=dark"/>
 </p>
 
-<h3 align="center">🚀 Featured Work</h3>
+<p align="center">
+  <b>Frameworks, Storage & Frontend:</b><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,electron,tailwind,threejs,mysql,postgres,mongodb&theme=dark"/>
+</p>
 
-<div align="center">
-
-| | Project | What it does | Built with |
-|:-:|---|---|---|
-| 📈 | **[SheetSync](https://github.com/Chandan-p-l)** | Cloud trading journal with real-time cross-device sync & analytics | JS · Sheets API · Cloud |
-| 🚨 | **[SafeCall](https://github.com/Chandan-p-l/SafeCall)** | Offline-first emergency helpline — works with zero network | JS · LocalStorage · PWA |
-
-</div>
-
-<details>
-<summary><b>🧭 Currently exploring</b></summary>
-<br>
-<code>System design</code> · <code>AI-powered apps</code> · <code>Cloud infra</code> · <code>Advanced Three.js</code> · <code>Product-led growth</code>
-</details>
+<p align="center">
+  <b>DevOps, Infrastructure & Workflow:</b><br>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,caddy,nginx,vscode&theme=dark"/>
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-<h3 align="center">📊 Activity</h3>
+<h3 align="center">🌟 Featured Repositories</h3>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Chandan-p-l&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=60A5FA&currStreakLabel=60A5FA" height="165"/>
+| Project | Focus | Tech Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| **[Nova](https://github.com/Chandan-p-l/Nova)** | Systems & Language Design | `Rust` | Custom language architecture with formal grammar specs and lexer/parser design. |
+| **[Lumina_Vault](https://github.com/Chandan-p-l/Lumina_Vault)** | Secure Desktop & Client/Server | `TypeScript` · `Electron` · `React` | Modular enterprise desktop application featuring client-server architecture. |
+| **[VPS_pannel](https://github.com/Chandan-p-l/VPS_pannel)** | Cloud Infrastructure & DevOps | `Docker` · `Caddy` · `Node.js` | Containerized VPS server management control panel with automated reverse proxy. |
+| **[omnidrive](https://github.com/Chandan-p-l/omnidrive)** | Distributed Cloud Storage | `TypeScript` · `Docker` | Unified multi-cloud storage manager with agent support and decoupled architecture. |
+| **[DriveDock](https://github.com/Chandan-p-l/DriveDock)** | Developer Automation | `Shell` · `JavaScript` | Zero-friction CLI utility with one-command installation and daemon management. |
+| **[linux-developer-handbook](https://github.com/Chandan-p-l/linux-developer-handbook)** | Linux Engineering Documentation | `Shell` · `MkDocs` | Comprehensive engineering handbook for Linux internals, automation, and tooling. |
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chandan-p-l&bg_color=0D1117&color=60A5FA&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&radius=8"/>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chandan-p-l/Chandan-p-l/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chandan-p-l/Chandan-p-l/output/snake-light.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Chandan-p-l/Chandan-p-l/output/snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<h3 align="center">📈 Engineering Metrics</h3>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Chandan-p-l&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=60A5FA&currStreakLabel=60A5FA" height="165"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chandan-p-l&bg_color=0D1117&color=60A5FA&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&radius=8"/>
 
 </div>
 
 <div align="center">
 <br>
-<sub><i>Turning ideas into products, and products into businesses.</i></sub>
+<i>"Crafting resilient systems, high-leverage developer tools, and clean architectures."</i>
 <br><br>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:0F172A,50:2563EB,100:7C3AED&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:0F172A,50:3B82F6,100:8B5CF6&animation=twinkling"/>
 </div>
